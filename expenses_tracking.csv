@@ -1,0 +1,5 @@
+Date,Expense #,Category,Description,Amount,Payment Method,Paid To,Receipt #,Notes
+2026-01-05,EXP-001,Rent,Monthly Rent,2000,Bank Transfer,Landlord,REC-001,
+2026-01-10,EXP-002,Utilities,Electricity Bill,150,Cash,Electric Company,REC-002,
+2026-01-12,EXP-003,Salaries,Employee Wages,3000,Bank Transfer,Employees,REC-003,
+2026-01-15,EXP-004,Marketing,Social Media Ads,500,Card,Facebook,REC-004,

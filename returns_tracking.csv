@@ -1,0 +1,2 @@
+Date,Return #,Original Invoice #,Customer Name,Item Name,Quantity Returned,Unit Price,Total Refund,Reason,Action Taken
+2026-01-15,RET-001,INV-001,Customer A,Product 1,2,50,100,Defective,Refunded

@@ -1,0 +1,10 @@
+Metric,Formula,Value
+Total Sales,=SUM(Sales!G:G),
+Total Purchases,=SUM(Purchases!G:G),
+Total Inventory Value,=SUM(Inventory!I:I),
+Total Returns,=SUM(Returns!H:H),
+Total Withdrawals,=SUM(Withdrawals!D:D),
+Total Partner Capital,=SUM(Partner_Capital!E:E),
+Total Expenses,=SUM(Expenses!E:E),
+Net Profit,=Total Sales - Total Purchases - Total Expenses - Total Returns,
+Cash Flow,=Total Sales - Total Purchases - Total Expenses - Total Withdrawals,

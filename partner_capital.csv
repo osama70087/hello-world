@@ -1,0 +1,4 @@
+Date,Partner Name,Transaction Type,Amount,Capital Balance,Ownership %,Notes
+2026-01-01,Partner A,Initial Investment,10000,10000,50%,Starting capital
+2026-01-01,Partner B,Initial Investment,10000,10000,50%,Starting capital
+2026-01-15,Partner A,Additional Investment,5000,15000,60%,
